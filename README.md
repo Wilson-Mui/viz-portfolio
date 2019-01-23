@@ -2,7 +2,7 @@
 This is my public portfolio for the Telling Stories with Data class at CMU
 
 # About me
-I'm a Masters of Public Policy and Management student at Carnegie Mellon Heinz College.
+I'm a Masters of Public Policy and Management student at Carnegie Mellon Heinz College (2019).
 
 I have a B.S. in Physics from Harvey Mudd College and have had a career in engineering, IT, and finance. Now my focus is to use data analytics to shape public policy. My area of interest is in drug policy, especially as it relates to crime, addiction, and mental health treatment. Simply put, I want to change our country's relationship to drugs.
 
