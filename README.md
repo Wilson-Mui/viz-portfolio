@@ -15,3 +15,5 @@ I would like to expand my toolset to be able to make more compelling visualizati
 
 # Portfolio
 <iframe id="datawrapper-chart-86bP0" src="//datawrapper.dwcdn.net/86bP0/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="400"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["86bP0"]={},window.datawrapper["86bP0"].iframe=document.getElementById("datawrapper-chart-86bP0"),window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("86bP0"==b)window.datawrapper["86bP0"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script>
+
+##USDA blog post visualization
