@@ -14,4 +14,5 @@ I'm hoping to learn cutting edge visualization tools that I can use to enhance m
 I would like to expand my toolset to be able to make more compelling visualizations of data. This will help me tell a story about the history of drugs, our current relationship with drugs, and how I see that relationship in the future. I also hope to learn the subtleties of data visualization - from color choice, to font type, to chart type - that makes some visualisations more effective than others.
 
 # Portfolio
-(Here will be some data visualizations that will showcase examples of how data can enhance comprehension)
+German political party gains/losses
+<iframe id="datawrapper-chart-86bP0" src="//datawrapper.dwcdn.net/86bP0/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="400"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["86bP0"]={},window.datawrapper["86bP0"].iframe=document.getElementById("datawrapper-chart-86bP0"),window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("86bP0"==b)window.datawrapper["86bP0"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script>
