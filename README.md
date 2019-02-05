@@ -18,3 +18,6 @@ I would like to expand my toolset to be able to make more compelling visualizati
 
 ## USDA blog post visualization
 <iframe id="datawrapper-chart-KtGud" src="//datawrapper.dwcdn.net/KtGud/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="240"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["KtGud"]={},window.datawrapper["KtGud"].iframe=document.getElementById("datawrapper-chart-KtGud"),window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("KtGud"==b)window.datawrapper["KtGud"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script>
+
+## Critique By Design
+https://wilson-mui.github.io/crit_by_design/
