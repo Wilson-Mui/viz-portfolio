@@ -27,6 +27,7 @@ My narrative arc will be as follows (Using the tools available to Shorthand):
 - Give links to politicians and MAPS, and newsletter sign up
 
 # Data
-
+[Veterans Data](viz-portfolio/Veteran Suicide/2011.csv)
+      
 # Method and Medium
 Test
