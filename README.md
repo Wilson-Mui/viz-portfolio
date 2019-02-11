@@ -22,4 +22,5 @@ I would like to expand my toolset to be able to make more compelling visualizati
 ## Critique By Design
 https://wilson-mui.github.io/crit_by_design/
 
-## Final Project (MDMA
+## Final Project (Bring MDMA-Assisted Psychotherapy To Pittsburgh)
+[Final Project Proposal Page](https://wilson-mui.github.io/viz-portfolio/final_project_Wilson_Mui)
