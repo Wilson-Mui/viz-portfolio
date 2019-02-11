@@ -38,6 +38,9 @@ https://maps.org/research/mdma/ptsd/phase3
       
 # Method and Medium
 Shorthand - As the main story telling framework
+[Shorthand sketch](viz-portfolio/IMG_20190210_215636.jpg)
+      
+
 
 Geographic data visualization (to show MDMA trial clinics across the country, and some information about those sites)
 
