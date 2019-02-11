@@ -30,10 +30,10 @@ My narrative arc will be as follows (Using the tools available to Shorthand):
 - Give links to politicians and MAPS, and newsletter sign up
 
 # Data
-[Veterans Data](viz-portfolio/Veteran Suicide/2011.csv)
-[MAPS FDA Trial Results](https://wilson-mui.github.io/viz-portfolio/MAPS_2018_MDMA_Investigators_Brochure_Edition10_10JUL2018.pdf)
-https://maps.org/research/mdma/ptsd/phase3/timeline
-https://maps.org/research/mdma/ptsd/phase3
+[Veterans Data](viz-portfolio/Veteran Suicide/2011.csv)</p>
+[MAPS FDA Trial Results](https://wilson-mui.github.io/viz-portfolio/MAPS_2018_MDMA_Investigators_Brochure_Edition10_10JUL2018.pdf)</p>
+https://maps.org/research/mdma/ptsd/phase3/timeline</p>
+https://maps.org/research/mdma/ptsd/phase3</p>
       
       
 # Method and Medium
