@@ -38,7 +38,8 @@ https://maps.org/research/mdma/ptsd/phase3
       
 # Method and Medium
 Shorthand - As the main story telling framework
-[Shorthand sketch](https://github.com/Wilson-Mui/viz-portfolio/blob/aa496e97256b879967e34d34ef34353d2d652b18/IMG_20190210_215636.jpg)
+[Shorthand Sketch 1](https://github.com/Wilson-Mui/viz-portfolio/blob/aa496e97256b879967e34d34ef34353d2d652b18/IMG_20190210_215636.jpg)
+[Shorthand Sketch 2](https://github.com/Wilson-Mui/viz-portfolio/blob/master/IMG_20190210_215641.jpg)
       
 
 
