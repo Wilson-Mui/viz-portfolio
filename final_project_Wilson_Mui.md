@@ -38,7 +38,7 @@ My narrative arc will be as follows (Using the tools available to Shorthand):
 # Method and Medium
 (Using Shorthand as the main story telling framework)
 ![Shorthand Sketch 1](https://wilson-mui.github.io/viz-portfolio/IMG_20190210_215636.jpg)
-![Shorthand Sketch 2](https://github.com/Wilson-Mui/viz-portfolio/IMG_20190210_215641.jpg)
+![Shorthand Sketch 2](https://wilson-mui.github.io/viz-portfolio/IMG_20190210_215641.jpg)
       
 
 
