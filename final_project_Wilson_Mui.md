@@ -31,15 +31,15 @@ My narrative arc will be as follows (Using the tools available to Shorthand):
 
 # Data
 [Veterans Data](viz-portfolio/Veteran Suicide/2011.csv)
-[MAPS FDA Trial Results](https://github.com/Wilson-Mui/viz-portfolio/find/masterviz-portfolio/MAPS_2018_MDMA_Investigators_Brochure_Edition10_10JUL2018.pdf)
+![MAPS FDA Trial Results](https://github.com/Wilson-Mui/viz-portfolio/find/masterviz-portfolio/MAPS_2018_MDMA_Investigators_Brochure_Edition10_10JUL2018.pdf)
 https://maps.org/research/mdma/ptsd/phase3/timeline
 https://maps.org/research/mdma/ptsd/phase3
       
       
 # Method and Medium
 Shorthand - As the main story telling framework
-[Shorthand Sketch 1](https://github.com/Wilson-Mui/viz-portfolio/blob/aa496e97256b879967e34d34ef34353d2d652b18/IMG_20190210_215636.jpg)
-[Shorthand Sketch 2](https://github.com/Wilson-Mui/viz-portfolio/blob/master/IMG_20190210_215641.jpg)
+![Shorthand Sketch 1](https://github.com/Wilson-Mui/viz-portfolio/blob/aa496e97256b879967e34d34ef34353d2d652b18/IMG_20190210_215636.jpg)
+![Shorthand Sketch 2](https://github.com/Wilson-Mui/viz-portfolio/blob/master/IMG_20190210_215641.jpg)
       
 
 
