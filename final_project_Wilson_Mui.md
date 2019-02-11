@@ -30,14 +30,14 @@ My narrative arc will be as follows (Using the tools available to Shorthand):
 - Give links to politicians and MAPS, and newsletter sign up
 
 # Data
-[Veterans Data](viz-portfolio/Veteran Suicide/2011.csv)</p>
+[Veterans Data](https://wilson-mui.github.io/viz-portfolio/Veteran Suicide/2011.csv)</p>
 [MAPS FDA Trial Results](https://wilson-mui.github.io/viz-portfolio/MAPS_2018_MDMA_Investigators_Brochure_Edition10_10JUL2018.pdf)</p>
 https://maps.org/research/mdma/ptsd/phase3/timeline</p>
 https://maps.org/research/mdma/ptsd/phase3</p>
       
       
 # Method and Medium
-Shorthand - As the main story telling framework
+(Using Shorthand as the main story telling framework)
 ![Shorthand Sketch 1](https://wilson-mui.github.io/viz-portfolio/IMG_20190210_215636.jpg)
 ![Shorthand Sketch 2](https://github.com/Wilson-Mui/viz-portfolio/IMG_20190210_215641.jpg)
       
