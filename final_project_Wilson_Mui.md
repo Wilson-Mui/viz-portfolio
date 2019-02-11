@@ -12,6 +12,7 @@ My narrative arc will be as follows (Using the tools available to Shorthand):
 - But it wasn't always illegal...it was made illegal in the 80's, and before that it was used in therapy...
 - What we're finding out now is that MDMA can be incredibly effective for treating MDMA
   (Have timeline viz-graphic pinpointing Rick Doblin's work towards legalization
+  (perhaps have link of interiview clip of Ethan Nadelmann talking about drugs and MDMA revolution)
   
 - Lead up to current status, Phase III FDA trials
 - Explain results (see MAPS Investigator's Brochure for statistics)
@@ -24,10 +25,24 @@ My narrative arc will be as follows (Using the tools available to Shorthand):
   
 - Explain how Pittsburgh can be an "Expanded Access Site"
 
+- Include link of movie clip of people who have been apart of the Phase II trials
+
 - Give links to politicians and MAPS, and newsletter sign up
 
 # Data
 [Veterans Data](viz-portfolio/Veteran Suicide/2011.csv)
+[MAPS FDA Trial Results(viz-portfolio/MAPS_2018_MDMA_Investigators_Brochure_Edition10_10JUL2018.pdf)
+https://maps.org/research/mdma/ptsd/phase3/timeline
+https://maps.org/research/mdma/ptsd/phase3
+      
       
 # Method and Medium
-Test
+Shorthand - As the main story telling framework
+
+Geographic data visualization (to show MDMA trial clinics across the country, and some information about those sites)
+
+Timeline data visualization (to show the work Rick Doblin has done and the different steps along the way, and victories)
+
+pie charts/bar charts to show the success rate of people who've tried MDMA and had improvements in PTSD symptoms
+
+iconographics to showcase the trial size so far (1,700 participants overall).
